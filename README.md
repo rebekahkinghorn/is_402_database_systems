@@ -1,6 +1,8 @@
 # IS 402 Database Systems
 
-SQL class files from IS 402 Database Systems, organized by mission. Only `.sql` files are included; Missions 1 and 2 are intentionally omitted.
+SQL class files from IS 402 Database Systems, organized by mission.
+
+These are all .sql files.
 
 ## Missions
 
